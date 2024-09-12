@@ -1,6 +1,7 @@
 --Homework 2: Basic SQL 
 --Due on Friday, September 13 at 11:59pm
 --Upload one .sql file with your queries
+
 --TODAY'S DATE: SEPT 11 at 2150h
 
 --SELECT
