@@ -1,3 +1,6 @@
+SQL HOMEWORK 3
+SEPT 17 2024 2140h
+
 --1. Write a query that determines how many times each vendor has rented a booth at the farmer’s market by counting the vendor booth assignments per vendor_id
 SELECT vendor_id, COUNT(booth_number) AS booth_rent_count
 FROM vendor_booth_assignments
