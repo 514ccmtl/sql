@@ -1,5 +1,5 @@
 --SQL HOMEWORK 4
---Second Attempted submission SEPT 21 2024
+--Third Attempted submission SEPT 21 2024
 
 -- COALESCE
 --1. Our favourite manager wants a detailed long list of products, but is afraid of tables! 
